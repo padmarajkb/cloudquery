@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [15.4.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-aws-v15.3.0...plugins-source-aws-v15.4.0) (2023-03-11)
+
+
+### Features
+
+* **aws:** Add Support for VPC Service Permissions ([#8808](https://github.com/cloudquery/cloudquery/issues/8808)) ([05d3342](https://github.com/cloudquery/cloudquery/commit/05d334295f0f5afcb7b14067b966558273442bb5))
+
+
+### Bug Fixes
+
+* **aws:** Log Error On Skipped Multiplexer ([#8799](https://github.com/cloudquery/cloudquery/issues/8799)) ([ea30c54](https://github.com/cloudquery/cloudquery/commit/ea30c5405903e49a007aac439cd142135800e708))
+
 ## [15.3.0](https://github.com/cloudquery/cloudquery/compare/plugins-source-aws-v15.2.0...plugins-source-aws-v15.3.0) (2023-03-08)
 
 
